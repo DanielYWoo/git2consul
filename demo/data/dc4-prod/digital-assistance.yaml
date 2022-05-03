@@ -7,3 +7,4 @@ key2: bbb
 platform:
   database:
     db-url: sadfasdf
+    db-user: daniel
