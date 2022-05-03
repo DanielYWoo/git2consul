@@ -10,6 +10,7 @@
   "repos" : [{
     "name" : "sample_configuration",
     "url" : "https://github.com/DanielYWoo/git2consul.git",
+    "expand_keys" : true,
     "source_root": "/demo/data",
     "mountpoint": "/git2consul",
     "branches" : ["master"],
