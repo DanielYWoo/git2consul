@@ -4,4 +4,6 @@ key1:
     key22: valueyyy
   key12: value12
 key2: bbb
-
+platform:
+  database:
+    db-url: sadfasdf
