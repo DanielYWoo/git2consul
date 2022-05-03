@@ -8,11 +8,11 @@
     }]
   },
   "repos" : [{
-    "name" : "sample_configuration",
+    "name" : "mytest",
     "url" : "https://github.com/DanielYWoo/git2consul.git",
     "expand_keys" : true,
     "source_root": "/demo/data",
-    "mountpoint": "/git2consul",
+    "mountpoint": "git2consul",
     "branches" : ["master"],
     "hooks": [{
       "type" : "polling",
